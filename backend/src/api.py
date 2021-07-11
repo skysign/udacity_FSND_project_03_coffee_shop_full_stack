@@ -124,13 +124,6 @@ def post_drink(jwt):
 @app.route('/drinks/<int:id>', methods=['PATCH'])
 @requires_auth('patch:drinks')
 def patch_drink(payload, *args, **kwargs):
-    print('payload')
-    print(payload)
-    print('args')
-    print(args)
-    print('kwargs')
-    print(kwargs)
-
     id = kwargs["id"]
     print(id)
 
@@ -166,7 +159,7 @@ def patch_drink(payload, *args, **kwargs):
 
     return jsonify({
         'success': True,
-        'drinks': d.long()
+        'drinks': [d.long()]
     })
 
 '''
@@ -182,13 +175,6 @@ def patch_drink(payload, *args, **kwargs):
 @app.route('/drinks/<int:id>', methods=['DELETE'])
 @requires_auth('delete:drinks')
 def delete_drink(payload, *args, **kwargs):
-    print('payload')
-    print(payload)
-    print('args')
-    print(args)
-    print('kwargs')
-    print(kwargs)
-
     id = kwargs["id"]
     print(id)
 
