@@ -38,9 +38,11 @@ def db_drop_and_create_all():
         title='water',
         recipe='[{"name": "water", "color": "blue", "parts": 1}]'
     )
+    db.session.add(drink)
+    db.session.commit()
 
 
-drink.insert()
+# drink.insert()
 # ROUTES
 
 '''
