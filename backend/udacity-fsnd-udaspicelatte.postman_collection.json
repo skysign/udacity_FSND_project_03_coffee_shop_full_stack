@@ -35,7 +35,7 @@
 						"url": {
 							"raw": "{{host}}/drinks",
 							"host": [
-								"{{host}}"
+								"13.124.122.34:9031"
 							],
 							"path": [
 								"drinks"
@@ -66,7 +66,7 @@
 						"url": {
 							"raw": "{{host}}/drinks-detail",
 							"host": [
-								"{{host}}"
+								"13.124.122.34:9031"
 							],
 							"path": [
 								"drinks-detail"
@@ -97,7 +97,7 @@
 						"url": {
 							"raw": "{{host}}/drinks",
 							"host": [
-								"{{host}}"
+								"13.124.122.34:9031"
 							],
 							"path": [
 								"drinks"
@@ -128,7 +128,7 @@
 						"url": {
 							"raw": "{{host}}/drinks/1",
 							"host": [
-								"{{host}}"
+								"13.124.122.34:9031"
 							],
 							"path": [
 								"drinks",
@@ -160,7 +160,7 @@
 						"url": {
 							"raw": "{{host}}/drinks/1",
 							"host": [
-								"{{host}}"
+								"13.124.122.34:9031"
 							],
 							"path": [
 								"drinks",
@@ -202,7 +202,7 @@
 						"url": {
 							"raw": "{{host}}/drinks",
 							"host": [
-								"{{host}}"
+								"13.124.122.34:9031"
 							],
 							"path": [
 								"drinks"
@@ -233,7 +233,7 @@
 						"url": {
 							"raw": "{{host}}/drinks-detail",
 							"host": [
-								"{{host}}"
+								"13.124.122.34:9031"
 							],
 							"path": [
 								"drinks-detail"
@@ -274,7 +274,7 @@
 						"url": {
 							"raw": "{{host}}/drinks",
 							"host": [
-								"{{host}}"
+								"13.124.122.34:9031"
 							],
 							"path": [
 								"drinks"
@@ -305,7 +305,7 @@
 						"url": {
 							"raw": "{{host}}/drinks/1",
 							"host": [
-								"{{host}}"
+								"13.124.122.34:9031"
 							],
 							"path": [
 								"drinks",
@@ -337,7 +337,7 @@
 						"url": {
 							"raw": "{{host}}/drinks/1",
 							"host": [
-								"{{host}}"
+								"13.124.122.34:9031"
 							],
 							"path": [
 								"drinks",
@@ -411,7 +411,7 @@
 						"url": {
 							"raw": "{{host}}/drinks",
 							"host": [
-								"{{host}}"
+								"13.124.122.34:9031"
 							],
 							"path": [
 								"drinks"
@@ -447,7 +447,7 @@
 						"url": {
 							"raw": "{{host}}/drinks-detail",
 							"host": [
-								"{{host}}"
+								"13.124.122.34:9031"
 							],
 							"path": [
 								"drinks-detail"
@@ -489,7 +489,7 @@
 						"url": {
 							"raw": "{{host}}/drinks",
 							"host": [
-								"{{host}}"
+								"13.124.122.34:9031"
 							],
 							"path": [
 								"drinks"
@@ -536,7 +536,7 @@
 						"url": {
 							"raw": "{{host}}/drinks/1",
 							"host": [
-								"{{host}}"
+								"13.124.122.34:9031"
 							],
 							"path": [
 								"drinks",
@@ -568,7 +568,7 @@
 						"url": {
 							"raw": "{{host}}/drinks/1",
 							"host": [
-								"{{host}}"
+								"13.124.122.34:9031"
 							],
 							"path": [
 								"drinks",
